@@ -13,6 +13,6 @@ Landing page of Spotify. It is a coding assingment given by Prayagraj Xport.
 
 ## Demo Shots
 
-![onLanding]()
+![onLanding](https://github.com/SunilHooda/prayagrajXportAssignment/blob/main/projectfolder/src/Images/onLanding.png)
 
-![AfterAnimation]()
+![AfterAnimation](https://github.com/SunilHooda/prayagrajXportAssignment/blob/main/projectfolder/src/Images/afterAnimation.png)
